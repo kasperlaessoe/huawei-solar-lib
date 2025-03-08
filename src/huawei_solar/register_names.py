@@ -510,3 +510,6 @@ SDONGLE_LOAD_POWER = "sdongle_load_power"
 SDONGLE_GRID_POWER = "sdongle_grid_power"
 SDONGLE_TOTAL_BATTERY_POWER = "sdongle_total_battery_power"
 SDONGLE_TOTAL_ACTIVE_POWER = "sdongle_total_active_power"
+
+ENERGY_STORAGE_FORCIBLE_CHARGE_POWER = "energy_storage_forcible_charge_power"
+ENERGY_STORAGE_FORCIBLE_DISCHARGE_POWER = "energy_storage_forcible_discharge_power"
